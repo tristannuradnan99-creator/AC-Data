@@ -8,3 +8,4 @@ appleygac.asi
 sampgraphicrestore.asi
 Y-Axis_Sensitivity_Fix_gta3vcsa.asi
 InfinityRun_SA.asi
+crashes.asi
